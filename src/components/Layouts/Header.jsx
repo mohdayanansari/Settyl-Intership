@@ -12,7 +12,7 @@ const Header = () => {
       <div className="text-gray-200  text-lg font-medium flex items-center  gap-5">
         <TakeMeToPage path="/" linkName="Home" />
         <TakeMeToPage path="/employee" linkName="Employee" />
-        <TakeMeToPage path="/" linkName="Test" />
+        <TakeMeToPage path="/dashboard" linkName="Dashboard" />
         <TakeMeToPage path="/asjdlaskdnflisa" linkName="Error Page" />
       </div>
     </div>
